@@ -58,12 +58,12 @@ const SocialIcons = () => {
     <div className="icons-section">
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
-          <a href="https://github.com/VivekPasarge" target="_blank">
+          <a href="https://github.com/VivekPasarge" target="_blank" rel="noopener noreferrer">
             <FaGithub />
           </a>
         </span>
         <span>
-          <a href="https://www.linkedin.com/in/vivek-pasarge-7084b22a0" target="_blank">
+         <a href="https://www.linkedin.com/in/vivek-pasarge-7084b22a0" target="_blank" rel="noopener noreferrer">
             <FaLinkedinIn />
           </a>
         </span>
